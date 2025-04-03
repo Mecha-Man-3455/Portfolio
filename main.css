@@ -2,9 +2,9 @@
 
 @font-face {
 	font-family: "Poppins";
-	src: url(../fonts/Poppins-Bold.ttf),
-		url(../fonts/Poppins-Black.ttf),
-		url(../fonts/Poppins-Medium.ttf);
+	src: url(/Poppins-Bold.ttf),
+		url(/Poppins-Black.ttf),
+		url(/Poppins-Medium.ttf);
 }
 
 * {
